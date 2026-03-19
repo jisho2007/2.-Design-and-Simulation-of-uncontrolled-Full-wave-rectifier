@@ -6,6 +6,7 @@ To design, simulate and analyse Full wave rectifier (Uncontrolled) in MATLAB Sim
 ## PROCEDURE
 1.	Open MATLAB and click on the icon for SIMULINK as shown below
  <img width="522" height="376" alt="image" src="https://github.com/user-attachments/assets/19e8a664-c851-4ee1-8719-d76e3c4ce565" />
+ 
 
 Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Library  browser. 
 
